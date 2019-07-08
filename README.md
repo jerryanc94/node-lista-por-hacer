@@ -2,6 +2,8 @@
 
 este es el ejercicio del curso
 
+prueba
+
 recuerden instalar los paquetes de node
 
 ```
